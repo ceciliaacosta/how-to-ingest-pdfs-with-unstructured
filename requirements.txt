@@ -5,3 +5,8 @@ pytest-cov
 black[jupyter]
 ipykernel
 textwrap3
+pdfminer.six
+pdf2image
+opencv-python
+pillow_heif
+"unstructured[all-docs]"
